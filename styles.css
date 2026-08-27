@@ -395,18 +395,6 @@ a:hover {
   border-bottom: 1px solid var(--soft);
 }
 
-.project-pdf-btn {
-  display: inline-flex;
-  align-items: center;
-  align-self: flex-start;
-  margin-top: 0.65rem;
-  text-decoration: none !important;
-  font-size: 0.78rem;
-  padding: 0.45rem 0.85rem;
-  white-space: nowrap;
-  position: static;
-}
-
 /* —— AISW Lab —— */
 .lab-card {
   display: grid;
